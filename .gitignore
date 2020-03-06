@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Ignore Items
+*.classpath
+*.project
+*.pyc
+*.pyo
+*.settings
+*/.git/*
+.deployables
+.git
+.svn
+_svn
+node_modules
+target
